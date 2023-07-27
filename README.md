@@ -1,23 +1,55 @@
-
 [![Header](https://i.imgur.com/HGzT3lT.png "Header")](https://ceeriil.com/)
 
-# Hey There
+<h1 align="center">👋 Hello! I'm Simon Cyril</h1>
 
-My name is Simon and I'm a Frontend Developer. I'm from Nigeria. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<br>
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<br>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<p align="center">
+I'm a Frontend developer and designer building digital products.
+</p>
+<p align="center"> 
+When I'm not coding you'll find me playing game, using twitter or learning something I find fun
+</p>
 
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+</div>
+<br>
 
+<h3>How I'd define myself...literally</h3>
+
+```javascript
+class Simon extends Person {
+  constructor() {
+    super();
+    this.name = "Simon Cyril";
+    this.age = 20;
+    this.work = ["Freelance", "Building BeatBridge"];
+    this.education = ["BSC Benson Idahosa", "Dayspring"];
+    this.hobbies = ["Drawing", "Playing Piano", "Gaming", "Reading"];
+  }
+
+  current_location() {
+    return "Benin, Nigeria";
+  }
+
+  next_locations() {
+    return ["United State?"];
+  }
+
+  currently() {
+    return {
+      studying: ["Computer Science"],
+      learning: ["Web3", "Three JS"],
+    };
+  }
+}
+```
+
+<br>

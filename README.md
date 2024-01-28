@@ -26,14 +26,14 @@ class Simon extends Person {
   constructor() {
     super();
     this.name = "Simon Cyril";
-    this.age = 20;
+    this.age = 21;
     this.work = ["Freelance", "Building BeatBridge"];
     this.education = ["BSC Benson Idahosa", "Dayspring"];
     this.hobbies = ["Drawing", "Playing Piano", "Gaming", "Reading"];
   }
 
   current_location() {
-    return "Benin, Nigeria";
+    return "  Abuja, Nigeria";
   }
 
   next_locations() {

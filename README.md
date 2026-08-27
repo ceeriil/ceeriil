@@ -1,26 +1,18 @@
 [![Header](https://i.imgur.com/c4puoC6.png "Header")](https://ceeriil.com/)
 
-<p align="center">
-  <code>// SIMON</code>
-</p>
+<h1 align="center"> Hi Human</h1>
 
 <p align="center">
   I design and build digital products, developer tools, and systems across Web3, AI, and the modern web.
-</p>
-
-<p align="center">
-  <code>STATUS: BUILDING</code>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <code>MODE: ENGINEERING</code>
 </p>
 
 <br>
 
 <div align="center">
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-111715?style=flat-square&logo=linkedin&logoColor=2DFF9A)](https://www.linkedin.com/in/simon-cyril/)
-[![X](https://img.shields.io/badge/X-111715?style=flat-square&logo=x&logoColor=2DFF9A)](https://x.com/ceeriil)
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-111715?style=flat-square&logo=googlechrome&logoColor=FF9F0A)](https://ceeriil.com/)
+[LINKEDIN](https://www.linkedin.com/in/simon-cyril/) &nbsp;•&nbsp;
+[X](https://x.com/ceeriil) &nbsp;•&nbsp;
+[WEBSITE](https://ceeriil.com/)
 
 </div>
 

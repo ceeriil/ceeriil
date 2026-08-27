@@ -1,11 +1,7 @@
 [![Header](https://i.imgur.com/c4puoC6.png "Header")](https://ceeriil.com/)
 
 <p align="center">
-  <code>// SIMON </code>
-</p>
-
-<p align="center">
-  <strong>Software Engineer · Web3 · AI</strong>
+  <code>// SIMON</code>
 </p>
 
 <p align="center">

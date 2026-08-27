@@ -3,7 +3,7 @@
 <h1 align="center">👋 𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅                                                                                                                        </h1>
 
 <p align="center">
-𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅𝖨'𝗆 𝖺 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖺𝗇𝖽 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋 𝖻𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝖽𝗂𝗀𝗂𝗍𝖺𝗅 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌.
+𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅 𝖨'𝗆 𝖺 software engineer 𝖺𝗇𝖽 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋 𝖻𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝖽𝗂𝗀𝗂𝗍𝖺𝗅 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌.
 </p>
 <p align="center"> 
 𝖶𝗁𝖾𝗇 𝖨'𝗆 𝗇𝗈𝗍 𝖼𝗈𝖽𝗂𝗇𝗀 𝗒𝗈𝗎'𝗅𝗅 𝖿𝗂𝗇𝖽 𝗆𝖾 𝗉𝗅𝖺𝗒𝗂𝗇𝗀 𝗀𝖺𝗆𝖾, 𝗎𝗌𝗂𝗇𝗀 𝗍𝗐𝗂𝗍𝗍𝖾𝗋 𝗈𝗋 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝖨 𝖿𝗂𝗇𝖽 𝖿𝗎𝗇
@@ -26,10 +26,10 @@ class Simon extends Person {
   constructor() {
     super();
     this.name = "Simon Cyril";
-    this.age = 21;
-    this.work = ["Freelance", "Building BeatBridge"];
+    this.age = 23;
+    this.work = ["Freelance", "Building Sandworm"];
     this.education = ["BSC Benson Idahosa", "Dayspring"];
-    this.hobbies = ["Drawing", "Playing Piano", "Gaming", "Reading"];
+    this.hobbies = ["Drawing", "Playing Piano", "Gaming", "Reading", "Chess"];
   }
 
   current_location() {
@@ -42,8 +42,8 @@ class Simon extends Person {
 
   currently() {
     return {
-      studying: ["Computer Science"],
-      learning: ["Web3", "Three JS"],
+      building: ["Something Amazing"],
+      learning: ["Data", "Chess"],
     };
   }
 }

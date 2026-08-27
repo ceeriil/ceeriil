@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/ebe8JGN.png "Header")](https://ceeriil.com/)
+[![Header](https://imgur.com/a/ZIaDw3X.png "Header")](https://ceeriil.com/)
 
 <h1 align="center">👋 𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅                                                                                                                        </h1>
 

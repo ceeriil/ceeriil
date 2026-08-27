@@ -1,25 +1,50 @@
 [![Header](https://i.imgur.com/c4puoC6.png "Header")](https://ceeriil.com/)
 
-<h1 align="center">👋 𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅                                                                                                                        </h1>
+<p align="center">
+  <code>// SIMON </code>
+</p>
 
 <p align="center">
-𝖧𝖾𝗅𝗅𝗈! 𝖨'𝗆 𝖲𝗂𝗆𝗈𝗇 𝖢𝗒𝗋𝗂𝗅 𝖨'𝗆 𝖺 software engineer 𝖺𝗇𝖽 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋 𝖻𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝖽𝗂𝗀𝗂𝗍𝖺𝗅 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌.
+  <strong>Software Engineer · Web3 · AI</strong>
 </p>
-<p align="center"> 
-𝖶𝗁𝖾𝗇 𝖨'𝗆 𝗇𝗈𝗍 𝖼𝗈𝖽𝗂𝗇𝗀 𝗒𝗈𝗎'𝗅𝗅 𝖿𝗂𝗇𝖽 𝗆𝖾 𝗉𝗅𝖺𝗒𝗂𝗇𝗀 𝗀𝖺𝗆𝖾, 𝗎𝗌𝗂𝗇𝗀 𝗍𝗐𝗂𝗍𝗍𝖾𝗋 𝗈𝗋 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝖨 𝖿𝗂𝗇𝖽 𝖿𝗎𝗇
+
+<p align="center">
+  I design and build digital products, developer tools, and systems across Web3, AI, and the modern web.
 </p>
+
+<p align="center">
+  <code>STATUS: BUILDING</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>MODE: ENGINEERING</code>
+</p>
+
+<br>
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/ceeriil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-cyril/)](https://www.linkedin.com/in/simon-cyril/)
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-111715?style=flat-square&logo=linkedin&logoColor=2DFF9A)](https://www.linkedin.com/in/simon-cyril/)
+[![X](https://img.shields.io/badge/X-111715?style=flat-square&logo=x&logoColor=2DFF9A)](https://x.com/ceeriil)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-111715?style=flat-square&logo=googlechrome&logoColor=FF9F0A)](https://ceeriil.com/)
+
 </div>
-<br>
 
 <br>
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+## `01 / TECHNOLOGY STACK`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-111715?style=for-the-badge&logo=typescript&logoColor=2DFF9A"/>
+<img src="https://img.shields.io/badge/REACT-111715?style=for-the-badge&logo=react&logoColor=2DFF9A"/>
+<img src="https://img.shields.io/badge/NEXT.JS-111715?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NODE.JS-111715?style=for-the-badge&logo=nodedotjs&logoColor=2DFF9A"/>
+<img src="https://img.shields.io/badge/SOLANA-111715?style=for-the-badge&logo=solana&logoColor=2DFF9A"/>
+
+</div>
+
 <br>
 
-<h3>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h3>
+## `02 / ABOUT ME`
 
 ```javascript
 class Simon extends Person {
@@ -47,6 +72,3 @@ class Simon extends Person {
     };
   }
 }
-```
-
-<br>

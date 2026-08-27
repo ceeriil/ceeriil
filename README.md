@@ -1,6 +1,6 @@
 [![Header](https://i.imgur.com/c4puoC6.png "Header")](https://ceeriil.com/)
 
-<h1 align="center"> Hi Human</h1>
+<h1 align="center">🛰️ Hello, Human</h1>
 
 <p align="center">
   I design and build digital products, developer tools, and systems across Web3, AI, and the modern web.
